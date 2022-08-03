@@ -15,6 +15,7 @@ import org.openqa.selenium.safari.SafariDriver;
 
 import java.net.URL;
 
+
 public class Driver {
     static String browser;
 
