@@ -15,7 +15,6 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
 import java.util.concurrent.TimeUnit;
-
 public class StepDefs {
 
     @Given("^I am on the home page$")
